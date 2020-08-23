@@ -1,0 +1,19 @@
+C:\Users\X\Desktop\PSAINT\JULIO\programacion apps\Practica Banco\Practica Banco\bin\Debug\Practica Banco.exe.config
+C:\Users\X\Desktop\PSAINT\JULIO\programacion apps\Practica Banco\Practica Banco\obj\Debug\Practica Banco.csprojResolveAssemblyReference.cache
+C:\Users\X\Desktop\PSAINT\JULIO\programacion apps\Practica Banco\Practica Banco\obj\Debug\Practica_Banco.Form1.resources
+C:\Users\X\Desktop\PSAINT\JULIO\programacion apps\Practica Banco\Practica Banco\obj\Debug\Practica_Banco.Properties.Resources.resources
+C:\Users\X\Desktop\PSAINT\JULIO\programacion apps\Practica Banco\Practica Banco\obj\Debug\Practica Banco.csproj.GenerateResource.Cache
+C:\Users\X\Desktop\PSAINT\JULIO\programacion apps\Practica Banco\Practica Banco\bin\Debug\Practica Banco.exe
+C:\Users\X\Desktop\PSAINT\JULIO\programacion apps\Practica Banco\Practica Banco\bin\Debug\Practica Banco.pdb
+C:\Users\X\Desktop\PSAINT\JULIO\programacion apps\Practica Banco\Practica Banco\obj\Debug\Practica Banco.exe
+C:\Users\X\Desktop\PSAINT\JULIO\programacion apps\Practica Banco\Practica Banco\obj\Debug\Practica Banco.pdb
+C:\Users\Fernando\Downloads\Practica Banco\Practica Banco\bin\Debug\Practica Banco.exe.config
+C:\Users\Fernando\Downloads\Practica Banco\Practica Banco\bin\Debug\Practica Banco.exe
+C:\Users\Fernando\Downloads\Practica Banco\Practica Banco\bin\Debug\Practica Banco.pdb
+C:\Users\Fernando\Downloads\Practica Banco\Practica Banco\obj\Debug\Practica Banco.csprojAssemblyReference.cache
+C:\Users\Fernando\Downloads\Practica Banco\Practica Banco\obj\Debug\Practica_Banco.Form1.resources
+C:\Users\Fernando\Downloads\Practica Banco\Practica Banco\obj\Debug\Practica_Banco.Properties.Resources.resources
+C:\Users\Fernando\Downloads\Practica Banco\Practica Banco\obj\Debug\Practica Banco.csproj.GenerateResource.cache
+C:\Users\Fernando\Downloads\Practica Banco\Practica Banco\obj\Debug\Practica Banco.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Downloads\Practica Banco\Practica Banco\obj\Debug\Practica Banco.exe
+C:\Users\Fernando\Downloads\Practica Banco\Practica Banco\obj\Debug\Practica Banco.pdb
